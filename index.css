@@ -3,7 +3,7 @@
     --main-white: #ffffff;
     --main-black: #000000;
     --main-gold: #021581;
-    --main-gray: #0f2b47;
+    --main-gray: #06022c;
   }
   
   /*Base reset*/
@@ -79,7 +79,7 @@
   }
 
 .background{
-    box-shadow: 20px blue inset;
+    box-shadow: 20px rgba(1, 1, 116, 0.301) inset;
 }
 
 #container {
