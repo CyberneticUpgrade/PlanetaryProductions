@@ -5,7 +5,7 @@ const elts = {
 
 const texts = [
     "Passion",
-    "Innovation",
+    "Creation",
     "Collaboration"
 ];
 
