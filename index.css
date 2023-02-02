@@ -120,6 +120,9 @@
   
   h2 {
     font-size: 4.2rem;
+    background: -webkit-linear-gradient(#006eff, #ff00aa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   
   ul {
@@ -149,7 +152,7 @@
     left: 0;
     width: 100%;
     background: var(--main-black);
-    box-shadow: 0 2px 0 #00013a;
+    box-shadow: 0 2px 0 #fa7000;
     z-index: 10;
   }
   
@@ -175,7 +178,7 @@
   }
   
   .nav-list a:hover {
-    background: linear-gradient(180deg, rgb(0, 217, 255), rgba(0, 0, 0, 0));
+    background: linear-gradient(180deg, black, rgba(0, 217, 255, 0.938));
   }
   
   /*Welcome Section*/
@@ -228,7 +231,7 @@
     justify-content: space-evenly;
     padding: 2rem;
     background: var(--main-black);
-    border-top: 4px solid var(--main-white);
+    border-top: 4px solid rgb(230, 0, 230);
   }
   
   footer > p {
