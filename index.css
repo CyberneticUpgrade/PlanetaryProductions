@@ -76,6 +76,7 @@
     color: var(--main-white);
     background: var(--main-black);
     margin: 0;
+    overflow-x: hidden;
   }
 
 .background{
