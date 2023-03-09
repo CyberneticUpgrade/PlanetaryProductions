@@ -4,9 +4,9 @@ const elts = {
 };
 
 const texts = [
-    "Passion",
-    "Creation",
-    "Collaboration"
+    "Music Production",
+    "Videography",
+    "Digital Arts"
 ];
 
 const morphTime = 1;
