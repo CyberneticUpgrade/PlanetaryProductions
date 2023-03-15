@@ -118,7 +118,7 @@
   h1 {
     font-size: 6rem;
   }
-  
+
   h2 {
     font-size: 4.2rem;
     background: -webkit-linear-gradient(#006eff, #ff00aa);
@@ -161,7 +161,7 @@
     display: flex;
     margin-right: 2rem;
   }
-  
+
   @media (max-width: 28.75em) {
     .nav {
       justify-content: center;
@@ -180,6 +180,7 @@
   
   .nav-list a:hover {
     background: linear-gradient(180deg, black, rgba(0, 217, 255, 0.938));
+  
   }
   
   /*Welcome Section*/
