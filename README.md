@@ -16,3 +16,6 @@ Website for Planetary Music Production company
 
 *UPDATE 4*
 -3/23/2023 - Refer UPDATE 3 + planning features and implementation.
+
+*UPDATE 5*
+-3/29/2023 - CSS Fixes for About and Team sections. Firebase and JS script tweaks.
